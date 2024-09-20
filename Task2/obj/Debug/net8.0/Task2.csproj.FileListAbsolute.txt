@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Task2\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\Asus\source\repos\Task2\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\Asus\source\repos\Task2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\Asus\source\repos\Task2\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\Asus\source\repos\Task2\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\Asus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\Asus\source\repos\Task2\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\Asus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\Asus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Task2\Task2\obj\Debug\net8.0\ref\Task2.dll
